@@ -1,11 +1,8 @@
-# Apache-HertzBeat
-Apache-HertzBeat
 Apache-HertzBeat open source real-time monitoring system has a default password vulnerability
 
 HertzBeat is an open source real-time monitoring system that does not require an agent, has a performance cluster, is compatible with Prometheus, and has the ability to build custom monitoring and status pages. HertzBeat's powerful customization, multi-type support, high performance, and easy expansion hope to help users quickly build their own monitoring systems. HertzBeat (HertzBeat) open source real-time monitoring system has a default password vulnerability.
 fofa
 app="HertzBeat-Real-time Monitoring System"
-![202511615749](https://github.com/user-attachments/assets/31b2244f-c163-42d0-94de-da1f8acec4d8)
 
 poc
 Default account password admin/hertzbeat
